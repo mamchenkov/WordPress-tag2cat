@@ -1,0 +1,5 @@
+PHP script to convert a WordPress tag to category.
+
+Usage:  php -f wp_tag2cat.php some-tag
+
+You'd probably need to edit the script for database credentials.
